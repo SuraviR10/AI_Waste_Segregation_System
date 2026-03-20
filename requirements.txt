@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+Pillow
+pyttsx3
+pandas
+tensorflow
+keras
+gTTSscipy
+google-cloud-texttospeech

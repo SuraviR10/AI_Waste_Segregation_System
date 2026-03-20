@@ -1,0 +1,36 @@
+# Earth Character Images Setup
+
+## Required Images
+
+Please save your 3 Earth character images in this folder with these exact names:
+
+1. **earth_sad.jpg** - The crying/sad Earth character (first image you showed)
+2. **earth_happy.jpg** - The happy/excited Earth character (second image you showed)
+3. **earth_thinking.jpg** - The thinking/confused Earth character (third image you showed)
+
+## Image Specifications
+
+- Format: JPG or PNG
+- Recommended size: 500x500 pixels or larger
+- The images should show the full Earth character with face and body
+
+## Current Status
+
+✅ metal waste.jpg
+✅ organic waste.jpg  
+✅ paper waste.jpg
+✅ plastic waste.jpg
+⏳ earth_sad.jpg - NEEDS TO BE ADDED
+⏳ earth_happy.jpg - NEEDS TO BE ADDED
+⏳ earth_thinking.jpg - NEEDS TO BE ADDED
+
+## How to Add
+
+1. Save your 3 Earth character images
+2. Rename them to match the names above
+3. Copy them to this `images` folder
+4. Run the app - the talking assistant will automatically use them!
+
+## Fallback
+
+If images are not found, the app will use emoji versions (🌍) as fallback.
